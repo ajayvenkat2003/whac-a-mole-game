@@ -1,0 +1,18 @@
+.square{
+	height: 150px;
+	width:150px;
+	border:1px solid rgb(0, 0, 0);
+	--gap:0;
+	text-align: center;
+    
+	
+}
+#grid{
+	width:465px;
+	margin:20px auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+.mole{
+	background-color: pink;
+}
